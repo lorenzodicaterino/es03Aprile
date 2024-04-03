@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es3aprile\\esercitazione03aprile\\esercitazione03aprile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|solutionrelative:esercitazione03aprile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es3aprile\\esercitazione03aprile\\esercitazione03aprile\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|solutionrelative:esercitazione03aprile\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es3aprile\\esercitazione03aprile\\esercitazione03aprile\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|solutionrelative:esercitazione03aprile\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es3aprile\\esercitazione03aprile\\esercitazione03aprile\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|solutionrelative:esercitazione03aprile\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es3aprile\\esercitazione03aprile\\esercitazione03aprile\\repository\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF2370D-AFE5-4D45-8A4A-88302870E4A5}|Esercitazione03Aprile\\Esercitazione03Aprile.csproj|solutionrelative:esercitazione03aprile\\repository\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Program.cs",
+              "RelativeDocumentMoniker": "Esercitazione03Aprile\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Program.cs",
+              "RelativeToolTip": "Esercitazione03Aprile\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:22:28.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Esercitazione03Aprile\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Esercitazione03Aprile\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:45:52.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "Esercitazione03Aprile\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "Esercitazione03Aprile\\Controllers\\ProdottoController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:59:40.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdottoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Repository\\ProdottoRepository.cs",
+              "RelativeDocumentMoniker": "Esercitazione03Aprile\\Repository\\ProdottoRepository.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Repository\\ProdottoRepository.cs",
+              "RelativeToolTip": "Esercitazione03Aprile\\Repository\\ProdottoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:59:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Esercitazione03Aprile\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es3Aprile\\Esercitazione03Aprile\\Esercitazione03Aprile\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Esercitazione03Aprile\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:00:05.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

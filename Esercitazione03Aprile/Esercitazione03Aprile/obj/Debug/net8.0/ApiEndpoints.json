@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "InserisciProdotto",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objPro",
+        "Type": "Esercitazione03Aprile.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "GetAll",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "AggiungiQuantita",
+    "RelativePath": "api/prodotto/aggiungi/{codice}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "GetByCodice",
+    "RelativePath": "api/prodotto/codice/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "EliminaPerCodice",
+    "RelativePath": "api/prodotto/elimina/{varCodice}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "ModificaProdotto",
+    "RelativePath": "api/prodotto/modifica",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objPro",
+        "Type": "Esercitazione03Aprile.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "RicercaGenerica",
+    "RelativePath": "api/prodotto/ricerca/{stringa}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stringa",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione03Aprile.Controllers.ProdottoController",
+    "Method": "RimuoviQuantita",
+    "RelativePath": "api/prodotto/rimuovi/{codice}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
